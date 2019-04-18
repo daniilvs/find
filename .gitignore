@@ -1,5 +1,4 @@
 # Compiled class file
-*.class
 
 # Log file
 *.log
@@ -28,5 +27,5 @@ hs_err_pid*
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
-toignore/
+findconsoleapp.iml
 out/production
