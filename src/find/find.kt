@@ -40,7 +40,6 @@ class FindFile (parser: ArgParser) {
                         subRes = true
                     else {
                         sub(file)
-                        filePath = file.absolutePath + "\\$fileName"
                     }
                 }
             }
